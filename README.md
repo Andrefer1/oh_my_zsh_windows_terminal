@@ -10,7 +10,7 @@
 
 <h2>Instalar o Subsistema Windows para Linux</h2>
 
-Primeiramente precisamos instalar o subsistema do Windows para Linux. Antes de instalar as distribuições do Linux no Windows, você deverá habilitar o recurso [Subsistema do Windows para Linux (WSL)][wsl].
+Antes de instalar as distribuições do Linux no Windows, você deverá habilitar o recurso [Subsistema do Windows para Linux (WSL)][wsl].
 
 Abra o PowerShell como administrador e execute:
 
@@ -22,7 +22,7 @@ dism.exe /online /enable-feature /featurename:Microsoft-Windows-Subsystem-Linux 
 
 Para atualizar para o WSL 2, você deve atender aos seguintes critérios:
 
-- Executar o Windows 10, atualizado para a versão 2004, Build 19041 ou superiores.
+- Possuir o Windows 10, atualizado para a versão 2004, Build 19041 ou superiores.
 
 - Verifique sua versão do Windows selecionando a tecla do logotipo do Windows + R, digite winver, selecione OK. (Ou digite o comando ver no prompt de comando do Windows). Faça a atualização para a última versão do Windows se o build for anterior ao 19041.
 
