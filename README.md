@@ -284,7 +284,9 @@ zinit light zsh-users/zsh-completions
 
 - <strong>zdharma/fast-syntax-highlighting</strong>: Adiciona syntax highlighting na hora da escrita de comandos que facilita principalmente em reconhecer comandos que foram digitados de forma incorreta;
 - <strong>zsh-users/zsh-autosuggestions</strong>: Sugere comandos baseados no histórico de execução conforme você vai digitando;
-- <strong>zsh-users/zsh-completions</strong>: Adiciona milhares de completitions para ferramentas comuns como Yarn, Homebrew, NVM, Node, etc, para você precisar apenas apertar TAB para completar comTerminal no VSCode</h>
+- <strong>zsh-users/zsh-completions</strong>: Adiciona milhares de completitions para ferramentas comuns como Yarn, Homebrew, NVM, Node, etc, para você precisar apenas apertar TAB para completar comandos.
+
+<h2>Terminal no VSCode</h2>
 
 Para utilizar o Oh My ZSH no VS Code, adicione a seguinte linha no arquivo "settings.json":
 
