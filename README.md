@@ -118,7 +118,7 @@ wsl --set-default-version 2
 <br>
 <h2>Instalando o ZSH</h2>
 
-Abra o Terminal do Windows e selecione o "Ubuntu XX.XX LTS" (preferencialmente), se optar pelo Prompt de Comando, PowerShell ou outro, precisará executar o comando:
+Abra o Terminal do Windows e selecione a distro Linux baixada (preferencialmente), se optar pelo Prompt de Comando, PowerShell ou outro, precisará executar o comando:
 
 ```bash
  bash
